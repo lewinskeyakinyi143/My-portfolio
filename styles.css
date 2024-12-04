@@ -1,0 +1,31 @@
+body, h1, h2,p {
+    margin:0;
+    padding:0;
+}
+body {
+    Font-family: 'Times New Roman', serif;
+    line-height: 1.5;
+    background-color: pink;
+}
+    header {
+        text-align: center;
+        background-color:black;
+        color:white;
+        padding:38px;
+    }
+main {
+    width: 84%;
+    margin: 20px auto;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+section {
+     margin: 50px 0;
+}
+footer{
+   text-align: center;
+   background-color: black;
+   color: white;
+   padding: 10px 0
+   margin-top: 18px;
+}
